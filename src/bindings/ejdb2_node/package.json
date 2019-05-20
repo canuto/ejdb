@@ -1,0 +1,13 @@
+{
+  "name": "ejdb2_node",
+  "version": "1.0.0",
+  "description": "EJDB2 Node.js binding",
+  "main": "index.js",
+  "repository": "https://github.com/Softmotions/ejdb.git",
+  "author": "Anton Adamansky <adamansky@gmail.com>",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.5.0"
+  }
+}

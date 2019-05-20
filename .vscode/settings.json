@@ -113,6 +113,8 @@
   },
   "C_Cpp.configurationWarnings": "Disabled",
   "files.associations": {
-  }
+    "*.arb": "json",
+    "*.gyp": "jsonc",
+    "ejdb2.h": "c"
+  },
 }
-
